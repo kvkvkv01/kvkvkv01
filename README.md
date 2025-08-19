@@ -3,7 +3,7 @@
 ![42](https://badgen.net/badge/Born2Code/kvkvkv/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
 - I am a **Software Engineering Student** at [École 42](https://42.rio);
-- I am interested in `Data`, `Back-End`, `Docker`;
+- I am interested in `Back-End`, `Data`, `Docker`;
 - I am currently learning `C`, `Go`, `PHP`, `C#` and `Windows Programming`;
 - I also have experience with `Python`, `Visual Basic for Applications + Advanced Microsoft Office Suite` and `PHP`.
 
