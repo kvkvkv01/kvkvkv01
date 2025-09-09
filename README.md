@@ -2,7 +2,7 @@
 
 ![42](https://badgen.net/badge/Born2Code/kvkvkv/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
-- I am a **Software Engineering Student** at [École 42](https://42.rio);
+- I am a **Software Engineering Student** currently participating at [École 42](https://42.rio)'s piscine;
 - This is my [Resume](https://kvkvkv01.github.io);
 - I am interested in `Back-End`, 'Data Science', `DevOps & Dockerization `;
 - I am currently learning `C`, `Go`, `PHP`, `C#` and `Windows Programming`;
