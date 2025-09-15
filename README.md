@@ -4,7 +4,7 @@
 
 - I am a **Software Engineering Student** currently participating at [École 42](https://42.rio)'s piscine;
 - This is my [Resume](https://kvkvkv01.github.io);
-- I am interested in `Back-End`, `Data Science, `DevOps & Dockerization `;
+- I am interested in `Back-End`, `Data Science`, `DevOps & Dockerization `;
 - I am currently learning `C`, `Go`, `PHP`, `C#` and `Windows Programming`;
 - I also have experience with `Python`, `Visual Basic for Applications + Advanced Microsoft Office Suite` and `PHP`.
 
