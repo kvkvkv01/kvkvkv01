@@ -3,7 +3,3 @@
 I am a **Software Engineering Student** from [École 42](https://42.fr). My main interests are `Low-Latency C/C++`, `Go` and `Windows Programming`.
 
 I also have some experience with `Python`, `Visual Basic for Applications + Advanced Microsoft Office Suite` and `Bayesian Statistic`.
-
-<div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kvkvkv01&theme=nord_dark)
-</div>
